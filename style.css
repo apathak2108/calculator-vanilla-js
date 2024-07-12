@@ -21,7 +21,7 @@ body {
 
 .calculator-screen-container {
   height: 80px;
-  width: 100%;
+  width: 198px;
   margin-top: 8px;
   font-size: 24px;
   display: flex;
